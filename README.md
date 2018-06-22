@@ -6,5 +6,7 @@ mddoc 同时支持命令行、git webhook生成，不光可以本地生成后上
 
 mddoc 兼容 GitBook Editor 编辑的格式，可以说 mddoc 是不想装 Node 环境又想使用 gitbook 的用户的一个非常好的选择。
 
+其实我开发 mddoc 的本意，其实是因为我用的虚拟主机，不能装 Node 环境。想要实现 webhook 自动生成比较困难，所以就用 php 写了这个……
+
 具体效果你现在看的这个文档就是使用 mddoc 生成哒！
 
