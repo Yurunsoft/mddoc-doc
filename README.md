@@ -10,3 +10,4 @@ mddoc 兼容 GitBook Editor 编辑的格式，可以说 mddoc 是不想装 Node 
 
 具体效果你现在看的这个文档就是使用 mddoc 生成哒！
 
+composer：`yurunsoft/mddoc`
