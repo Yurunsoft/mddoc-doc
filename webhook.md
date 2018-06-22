@@ -30,3 +30,4 @@ $webhook->handle();
 ```
 3. 在`github`或`gitee`中配置`webhook`，url为`http://xxx.com/github-webhook.php?password={password}`，`{password}`为你配置文件中设置的
 
+> 注意！html生成目录在生成前会被清空所有文件，请慎重选择目录！
